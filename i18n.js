@@ -21,6 +21,7 @@ const resources = {
   en: {
     translation: {
       "title": "Orbiter Azimuth Calculator",
+      "description": "Launch azimuth calculator for Orbiter 2016. Simplify your space missions by accurately calculating the azimuth required to reach your targets from any latitude. A practical tool for Orbiter pilots and enthusiasts.",
       "labels": {
         "currentLatitude": "Current latitude",
         "targetInclination": "Target inclination",
@@ -36,6 +37,7 @@ const resources = {
   fr: {
     translation: {
       "title": "Orbiter Azimuth Calculator",
+      "description": "Calculateur d'azimuth de lancement pour Orbiter 2016. Simplifiez vos missions spatiales en calculant avec précision l'azimuth nécessaire pour atteindre vos cibles depuis n'importe quelle latitude. Un outil pratique pour les pilotes et les passionnés d'Orbiter.",
       "labels": {
         "currentLatitude": "Latitude actuelle",
         "targetInclination": "Inclinaison de la cible",
