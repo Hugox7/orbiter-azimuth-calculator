@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { Orbitron } from "next/font/google";
 import { useEffect, useState } from "react";
-import './i18n';
+import '../i18n';
 
 const orbitron = Orbitron({ subsets: ["latin"] });
 
